@@ -1,4 +1,4 @@
-﻿namespace Ord.EF.Models;
+﻿namespace OrdEF;
 
 public class Class1
 {
